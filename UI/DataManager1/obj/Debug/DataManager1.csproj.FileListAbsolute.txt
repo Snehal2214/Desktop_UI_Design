@@ -1,0 +1,9 @@
+C:\Users\Sneha\source\repos\UI\DataManager1\bin\Debug\DataManager1.dll
+C:\Users\Sneha\source\repos\UI\DataManager1\bin\Debug\DataManager1.pdb
+C:\Users\Sneha\source\repos\UI\DataManager1\bin\Debug\Models.dll
+C:\Users\Sneha\source\repos\UI\DataManager1\bin\Debug\Models.pdb
+C:\Users\Sneha\source\repos\UI\DataManager1\obj\Debug\DataManager1.csproj.AssemblyReference.cache
+C:\Users\Sneha\source\repos\UI\DataManager1\obj\Debug\DataManager1.csproj.CoreCompileInputs.cache
+C:\Users\Sneha\source\repos\UI\DataManager1\obj\Debug\DataMana.EB62E026.Up2Date
+C:\Users\Sneha\source\repos\UI\DataManager1\obj\Debug\DataManager1.dll
+C:\Users\Sneha\source\repos\UI\DataManager1\obj\Debug\DataManager1.pdb
